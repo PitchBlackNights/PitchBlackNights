@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# SECRET FOUND!
+Create a repository with your name as the repository name. Then create a README.md file. The README.md file will now appear on your profile page, so you can use it as an extra bio!
 <!--
 **PitchBlackNights/PitchBlackNights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
