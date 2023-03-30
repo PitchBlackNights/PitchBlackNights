@@ -1,7 +1,7 @@
 # Hi, I'm Blake
 ## Bio
-Co-founder of [Project Undefined](https://github.com/project-undefined)
-I'm a young developer with small project scattered eveywhere. I can barely keep focus on one thing for a while, but hopefully that will change with [Vansch OS](https://github.com/project-undefined/Vansch-OS).
+Co-founder of [Project Undefined](https://github.com/project-undefined)<br>
+I am a new developer with small projects scattered eveywhere. I can barely keep focus on one thing for a while, but hopefully that will change with [Vansch OS](https://github.com/project-undefined/Vansch-OS).
 I'm wanting to major in Cybersecurity, specifically Network and Infrastructure security, along with Intrusion detection and Penetration testing.
 
 ## Current Projects
