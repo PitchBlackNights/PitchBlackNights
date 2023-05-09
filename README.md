@@ -9,6 +9,6 @@ I'm wanting to major in Cybersecurity, specifically Network and Infrastructure s
 [Lupine OS](https://github.com/project-undefined/Vansch-OS)
 
 ## Coding Stats
-[![PitchBlackNights Github Stats](https://github-readme-stats.vercel.app/api?username=pitchblacknights&count_private=true&include_all_commits=true&show_icons=true&theme=radical&bg_color=00000000&custom_title=Github%20Stats)](https://github.com/PitchBlackNights)
-[![PitchBlackNights Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=pitchblacknights&count_private=true&show_icons=true&layout=compact&theme=radical&bg_color=00000000)](https://github.com/PitchBlackNights)
-[![PitchBlackNights Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pitchblacknights&show_icons=true&theme=radical&bg_color=00000000)](https://wakatime.com/@PitchBlackNights)
+[![PitchBlackNights Github Stats](https://github-readme-stats-mqor.vercel.app/api?username=pitchblacknights&count_private=true&include_all_commits=true&show_icons=true&theme=radical&bg_color=00000000&custom_title=Github%20Stats)](https://github.com/PitchBlackNights)
+[![PitchBlackNights Language Stats](https://github-readme-stats-mqor.vercel.app/api/top-langs?username=pitchblacknights&count_private=true&show_icons=true&layout=compact&theme=radical&bg_color=00000000)](https://github.com/PitchBlackNights)
+[![PitchBlackNights Wakatime Stats](https://github-readme-stats-mqor.vercel.app/api/wakatime?username=pitchblacknights&show_icons=true&theme=radical&bg_color=00000000&range=all_time&langs_count=10)](https://wakatime.com/@PitchBlackNights)
