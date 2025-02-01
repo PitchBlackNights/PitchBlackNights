@@ -1,6 +1,6 @@
 # Hi, I'm Blake
 ## Bio
-Co-founder of [Project Undefined](https://github.com/project-undefined)<br>
+Co-creator of [Project Undefined](https://github.com/project-undefined)<br>
 I am a new developer with small projects scattered everywhere. I don't have any big projects that I have finished, but hopefully, that will change with [Lupine OS](https://github.com/project-undefined/Lupine-OS).
 I want to major in Cybersecurity, specifically Network and Infrastructure security, Intrusion detection, and Penetration testing.
 
