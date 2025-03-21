@@ -1,7 +1,7 @@
 # Hi, I'm Blake
 ## Bio
 Co-creator of [Project Undefined](https://github.com/project-undefined)<br>
-I am a new developer with small projects scattered everywhere. I don't have any big projects that I have finished, but hopefully, that will change with [Lupine OS](https://github.com/project-undefined/Lupine-OS).
+I am a highschool developer with a mountain of dead projects, many of which are private or not on GitHub. I haven't continually worked on any big projects, but hopefully, that will change with [OxidizeMC](https://github.com/PitchBlackNights/oxidizemc) or [Lupine OS](https://github.com/project-undefined/Lupine-OS) (It's currently abandoned/on hiatus and might not come back).<br>
 I want to major in Cybersecurity, specifically Network and Infrastructure security, Intrusion detection, and Penetration testing.
 
 ## Current Projects
