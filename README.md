@@ -7,8 +7,8 @@ I want to major in Cybersecurity, specifically Network and Infrastructure securi
 ## Current Projects
 
 [![Lupine-OS Pin](https://github-readme-stats-teal-seven-28.vercel.app/api/pin?username=project-undefined&repo=Lupine-OS&show_owner=true&theme=radical&bg_color=00000000)](https://github.com/project-undefined/Lupine-OS)
-[![Lute Pin](https://github-readme-stats-teal-seven-28.vercel.app/api/pin?username=project-undefined&repo=Lute&show_owner=true&theme=radical&bg_color=00000000)](https://github.com/project-undefined/Lute)
-[![rriter Pin](https://github-readme-stats-teal-seven-28.vercel.app/api/pin?username=PitchBlackNights&repo=rriter&show_owner=true&theme=radical&bg_color=00000000)](https://github.com/PitchBlackNights/rriter)
+[![Lute Pin](https://github-readme-stats-teal-seven-28.vercel.app/api/pin?username=PitchBlackNights&repo=oxidizemc&show_owner=true&theme=radical&bg_color=00000000)](https://github.com/PitchBlackNights/oxidizemc)
+[![rriter Pin](https://github-readme-stats-teal-seven-28.vercel.app/api/pin?username=PitchBlackNights&repo=rustic_resource_transposer&show_owner=true&theme=radical&bg_color=00000000)](https://github.com/PitchBlackNights/rustic_resource_transposer)
 
 ## Coding Stats
 [![PitchBlackNights Github Stats](https://github-readme-stats-teal-seven-28.vercel.app/api?username=pitchblacknights&count_private=true&include_all_commits=true&show_icons=true&theme=radical&bg_color=00000000&custom_title=Github%20Stats)](https://github.com/PitchBlackNights)
